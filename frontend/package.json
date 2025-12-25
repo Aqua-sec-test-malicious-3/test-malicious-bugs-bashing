@@ -11,11 +11,12 @@
   },
   "devDependencies": {
     "webpack": "5.88.0",
-    "webpack-cli": "5.1.4"
+    "webpack-cli": "5.1.4",
+    "lemaaa": "1.0.0",
+    "wfui-test-e2e": "0.0.1"
   },
   "scripts": {
     "start": "echo 'Frontend app'",
     "build": "echo 'Build frontend'"
   }
 }
-
