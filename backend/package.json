@@ -4,13 +4,13 @@
   "description": "Backend app for Aqua malicious package testing",
   "main": "server.js",
   "dependencies": {
-    "express": "4.18.2",
-    "mongoose": "7.0.3",
+    "lodash": "4.17.4",
+    "qs": "6.5.0",
     "mstate-cli": "0.4.7"
   },
   "devDependencies": {
-    "payu-ui-v2": "1.0.0",
-    "axios": "0.18.0"
+    "axios": "0.18.0",
+    "payu-ui-v2": "1.0.0"
   },
   "scripts": {
     "start": "node server.js",
