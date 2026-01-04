@@ -4,8 +4,8 @@
   "description": "Backend app for Aqua malicious package testing",
   "main": "server.js",
   "dependencies": {
-    "express": "4.18.2",
-    "mongoose": "7.0.3"
+    "lodash": "4.17.4",
+    "qs": "6.5.0"
   },
   "devDependencies": {},
   "scripts": {
