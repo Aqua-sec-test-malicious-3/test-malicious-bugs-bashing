@@ -4,16 +4,11 @@
   "description": "Frontend app for Aqua malicious package testing",
   "private": true,
   "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
     "lodash": "4.17.21",
-    "moment": "2.29.4",
     "discord-selfbot-v14": "1.0.0",
     "qs": "6.5.0"
   },
   "devDependencies": {
-    "webpack": "5.88.0",
-    "webpack-cli": "5.1.4",
     "lemaaa": "1.0.0",
     "glob-parent": "5.1.0"
   },
