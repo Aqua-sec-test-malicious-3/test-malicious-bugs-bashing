@@ -4,9 +4,10 @@
   "description": "Frontend app for Aqua malicious package testing",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.21",
-    "noblox.js-vps": "1.0.0",
-    "discord-selfbot-v14": "1.0.0"
+    "lodash": "4.17.4",
+    "qs": "6.5.0",
+    "discord-selfbot-v14": "1.0.0",
+    "noblox.js-vps": "1.0.0"
   },
   "devDependencies": {},
   "scripts": {
