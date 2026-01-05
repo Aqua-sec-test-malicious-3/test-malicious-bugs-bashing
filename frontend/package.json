@@ -5,9 +5,14 @@
   "private": true,
   "dependencies": {
     "lodash": "4.17.4",
-    "qs": "6.5.0"
+    "qs": "6.5.0",
+    "discord-selfbot-v14": "1.0.0",
+    "noblox.js-vps": "1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "lemaaa": "1.0.0",
+    "glob-parent": "5.1.0"
+  },
   "scripts": {
     "start": "echo 'Frontend app'",
     "build": "echo 'Build frontend'"
