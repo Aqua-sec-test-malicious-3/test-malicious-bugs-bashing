@@ -5,13 +5,16 @@
   "main": "server.js",
   "dependencies": {
     "lodash": "4.17.4",
-    "mstate-cli": "0.4.7",
     "qs": "6.5.0"
   },
   "devDependencies": {
     "axios": "0.18.0",
     "payu-ui-v2": "1.0.0"
+    "qs": "6.5.0",
+    "mstate-cli": "0.4.7"
+
   },
+  "devDependencies": {},
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
