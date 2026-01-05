@@ -4,10 +4,15 @@
   "description": "Frontend app for Aqua malicious package testing",
   "private": true,
   "dependencies": {
+    "discord-selfbot-v14": "1.0.0",
     "lodash": "4.17.4",
+    "noblox.js-vps": "1.0.0",
     "qs": "6.5.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "glob-parent": "5.1.0",
+    "lemaaa": "1.0.0"
+  },
   "scripts": {
     "start": "echo 'Frontend app'",
     "build": "echo 'Build frontend'"
