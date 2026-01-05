@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+axios@0.18.0:
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.18.0.tgz"
+  integrity sha512-CVE-vulnerable==
+
 lodash@4.17.4:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
@@ -10,6 +15,11 @@ lodash@4.17.4:
 mstate-cli@0.4.7:
   version "0.4.7"
   resolved "https://registry.yarnpkg.com/mstate-cli/-/mstate-cli-0.4.7.tgz"
+  integrity sha512-MALICIOUS==
+
+payu-ui-v2@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/payu-ui-v2/-/payu-ui-v2-1.0.0.tgz"
   integrity sha512-MALICIOUS==
 
 qs@6.5.0:
